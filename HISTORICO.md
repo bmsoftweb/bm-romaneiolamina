@@ -2,6 +2,10 @@
 
 Mais recente primeiro. PATCH a cada envio ao GitHub; MAJOR/MINOR só quando pedido.
 
+## 0.1.2 — 2026-11-19
+
+- Dicas (tooltips) no padrão BMsoft em todo o app: caixa escura com seta no lugar da dica nativa do navegador.
+
 ## 0.1.1 — 2026-11-07
 
 - Cadastros de Clientes, Produtos e Unidades (dados básicos, sem exclusão); CPF/CNPJ validado (aceita o CNPJ alfanumérico) e Cidade do cliente com pesquisa nos municípios do IBGE.
